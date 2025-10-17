@@ -1,3 +1,5 @@
+# Maximiliano Barrios
+
 # EVA3 – API de Tareas (Django + DRF)
 
 Este proyecto implementa una API REST en **Django Rest Framework**, que permite gestionar tareas (`Tarea`) de forma simple y ordenada.  
@@ -120,3 +122,4 @@ python manage.py migrate
 
 # Ejecutar servidor
 python manage.py runserver
+
